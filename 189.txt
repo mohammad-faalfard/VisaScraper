@@ -1,0 +1,212 @@
+Accountant (General)
+Actuary
+Aeronautical Engineer
+Agricultural Consultant
+Agricultural Engineer
+Agricultural Scientist
+Airconditioning and Mechanical Services Plumber
+Airconditioning and Refrigeration Mechanic
+Analyst Programmer
+Architect
+Artistic Director
+Arts Administrator or Manager
+Audiologist
+Automotive Electrician
+Barrister
+Biochemist
+Biomedical Engineer
+Biotechnologist
+Boat Builder and Repairer
+Botanist
+Bricklayer
+Cabinetmaker
+Cardiologist
+Cardiothoracic Surgeon
+Carpenter
+Carpenter and Joiner
+Cartographer
+Chef
+Chemical Engineer
+Chemist
+Child Care Centre Manager
+Chiropractor
+Civil Engineer
+Civil Engineering Draftsperson
+Civil Engineering Technician
+Clinical Haematologist
+Clinical Psychologist
+Computer Network and Systems Engineer
+Conservator
+Construction Project Manager
+Dancer or Choreographer
+Dermatologist
+Developer Programmer
+Diagnostic and Interventional Radiologist
+Diesel Motor Mechanic
+Drainer
+Early Childhood (Pre-primary School) Teacher
+Economist
+Educational Psychologist
+Electrical Engineer
+Electrical Engineering Draftsperson
+Electrical Engineering Technician
+Electrician (General)
+Electrician (Special Class)
+Electronic Equipment Trades Worker
+Electronic Instrument Trades Worker (General)
+Electronic Instrument Trades Worker (Special Class)
+Electronics Engineer
+Emergency Medicine Specialist
+Endocrinologist
+Engineering Manager
+Engineering Professionals nec
+Engineering Technologist
+Environmental Consultant
+Environmental Engineer
+Environmental Manager
+Environmental Research Scientist
+Environmental Scientists nec
+External Auditor
+Fibrous Plasterer
+Fitter (General)
+Fitter and Turner
+Fitter-Welder
+Food Technologist
+Footballer
+Forester
+Gasfitter
+Gastroenterologist
+General Practitioner
+Geophysicist
+Geotechnical Engineer
+Glazier
+Horse Trainer
+Hydrogeologist
+ICT Business Analyst
+ICT Security Specialist
+Industrial Engineer
+Intensive Care Specialist
+Internal Auditor
+Joiner
+Land Economist
+Landscape Architect
+Life Scientist (General)
+Life Scientists nec
+Lift Mechanic
+Locksmith
+Management Accountant
+Management Consultant
+Marine Biologist
+Materials Engineer
+Mechanical Engineer
+Medical Diagnostic Radiographer
+Medical Laboratory Scientist
+Medical Oncologist
+Medical Practitioners nec
+Medical Radiation Therapist
+Metal Fabricator
+Metal Machinist (First Class)
+Metallurgist
+Meteorologist
+Microbiologist
+Midwife
+Mining Engineer (excluding Petroleum)
+Motor Mechanic (General)
+Motorcycle Mechanic
+Multimedia Specialist
+Music Director
+Musician (Instrumental)
+Natural and Physical Science Professionals nec
+Naval Architect
+Neurologist
+Neurosurgeon
+Nuclear Medicine Technologist
+Nurse Practitioner
+Nursing Clinical Director
+Obstetrician and Gynaecologist
+Occupational Therapist
+Ophthalmologist
+Optometrist
+Organisational Psychologist
+Orthopaedic Surgeon
+Orthotist or Prosthetist
+Osteopath
+Other Spatial Scientist
+Otorhinolaryngologist
+Paediatric Surgeon
+Paediatrician
+Painting Trades Worker
+Panelbeater
+Pathologist
+Petroleum Engineer
+Physicist
+Physiotherapist
+Plastic and Reconstructive Surgeon
+Plumber (General)
+Podiatrist
+Pressure Welder
+Primary Health Organisation Manager
+Production or Plant Engineer
+Psychiatrist
+Psychologists nec
+Quantity Surveyor
+Radiation Oncologist
+Radiocommunications Technician
+Registered Nurse (Aged Care)
+Registered Nurse (Child and Family Health)
+Registered Nurse (Community Health)
+Registered Nurse (Critical Care and Emergency)
+Registered Nurse (Developmental Disability)
+Registered Nurse (Disability and Rehabilitation)
+Registered Nurse (Medical Practice)
+Registered Nurse (Medical)
+Registered Nurse (Mental Health)
+Registered Nurse (Paediatrics)
+Registered Nurse (Perioperative)
+Registered Nurse (Surgical)
+Registered Nurses nec
+Renal Medicine Specialist
+Rheumatologist
+Roof Plumber
+Secondary School Teacher
+Sheetmetal Trades Worker
+Shipwright
+Small Engine Mechanic
+Social Worker
+Software and Applications Programmers nec
+Software Engineer
+Solicitor
+Solid Plasterer
+Sonographer
+Special Education Teachers nec
+Special Needs Teacher
+Specialist Physician (General Medicine)
+Specialist Physicians nec
+Speech Pathologist
+Statistician
+Stonemason
+Structural Engineer
+Surgeon (General)
+Surveyor
+Systems Analyst
+Taxation Accountant
+Teacher of the Hearing Impaired
+Teacher of the Sight Impaired
+Technical Cable Jointer
+Telecommunications Engineer
+Telecommunications Field Engineer
+Telecommunications Network Engineer
+Telecommunications Network Planner
+Telecommunications Technical Officer or Technologist
+Tennis Coach
+Thoracic Medicine Specialist
+Transport Engineer
+University Lecturer
+Urologist
+Valuer
+Vascular Surgeon
+Veterinarian
+Wall and Floor Tiler
+Welder (First Class)
+Welfare Centre Manager
+Zoologist

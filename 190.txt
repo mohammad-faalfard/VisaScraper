@@ -1,0 +1,427 @@
+Accommodation and Hospitality Managers nec
+Accountant (General)
+Actuary
+Acupuncturist
+Advertising Manager
+Advertising Specialist
+Aeronautical Engineer
+Agricultural Consultant
+Agricultural Engineer
+Agricultural Scientist
+Airconditioning and Mechanical Services Plumber
+Airconditioning and Refrigeration Mechanic
+Aircraft Maintenance Engineer (Avionics)
+Aircraft Maintenance Engineer (Mechanical)
+Aircraft Maintenance Engineer (Structures)
+Ambulance Officer
+Anaesthetic Technician
+Analyst Programmer
+Animal Attendants and Trainers nec
+Apiarist
+Arborist
+Architect
+Architectural Draftsperson
+Architectural, Building and Surveying Technicians nec
+Art Teacher (Private Tuition)
+Artistic Director
+Arts Administrator or Manager
+Audiologist
+Automotive Electrician
+Baker
+Barrister
+Biochemist
+Biomedical Engineer
+Biotechnologist
+Boat Builder and Repairer
+Book or Script Editor
+Botanist
+Bricklayer
+Building Inspector
+Business Machine Mechanic
+Butcher or Smallgoods Maker
+Cabinetmaker
+Cabler (Data and Telecommunications)
+Cafe or Restaurant Manager
+Camera Operator (Film, Television or Video)
+Cardiac Technician
+Cardiologist
+Cardiothoracic Surgeon
+Careers Counsellor
+Carpenter
+Carpenter and Joiner
+Cartographer
+Chef
+Chemical Engineer
+Chemist
+Chemistry Technician
+Child Care Centre Manager
+Chiropractor
+Civil Engineer
+Civil Engineering Draftsperson
+Civil Engineering Technician
+Clinical Haematologist
+Clinical Psychologist
+Commodities Trader
+Community Worker
+Company Secretary
+Complementary Health Therapists nec
+Computer Network and Systems Engineer
+Conference and Event Organiser
+Conservator
+Construction Project Manager
+Contract Administrator
+Cook
+Copywriter
+Corporate Services Manager
+Counsellors nec
+Customer Service Manager
+Dance Teacher (Private Tuition)
+Dancer or Choreographer
+Database Administrator
+Dental Specialist
+Dental Technician
+Dermatologist
+Developer Programmer
+Diagnostic and Interventional Radiologist
+Diesel Motor Mechanic
+Dietitian
+Director (Film, Television, Radio or Stage)
+Disabilities Services Officer
+Diversional Therapist
+Diving Instructor (Open Water)
+Dog Handler or Trainer
+Drainer
+Dressmaker or Tailor
+Drug and Alcohol Counsellor
+Early Childhood (Pre-primary School) Teacher
+Earth Science Technician
+Economist
+Education Adviser
+Education Managers nec
+Educational Psychologist
+Electrical Engineer
+Electrical Engineering Draftsperson
+Electrical Engineering Technician
+Electrician (General)
+Electrician (Special Class)
+Electronic Equipment Trades Worker
+Electronic Instrument Trades Worker (General)
+Electronic Instrument Trades Worker (Special Class)
+Electronics Engineer
+Emergency Medicine Specialist
+Endocrinologist
+Engineering Manager
+Engineering Professionals nec
+Engineering Technologist
+Enrolled Nurse
+Environmental Consultant
+Environmental Engineer
+Environmental Manager
+Environmental Research Scientist
+Environmental Scientists nec
+External Auditor
+Facilities Manager
+Family and Marriage Counsellor
+Family Support Worker
+Farrier
+Fashion Designer
+Fibrous Plasterer
+Film and Video Editor
+Finance Broker
+Finance Manager
+Financial Brokers nec
+Financial Dealers nec
+Financial Investment Adviser
+Financial Investment Manager
+Financial Market Dealer
+Fitter (General)
+Fitter and Turner
+Fitter-Welder
+Florist
+Flower Grower
+Food Technologist
+Footballer
+Forester
+Furniture Finisher
+Gallery or Museum Curator
+Gardener (General)
+Gasfitter
+Gastroenterologist
+General Practitioner
+Geologist
+Geophysicist
+Geotechnical Engineer
+Glazier
+Grape Grower
+Graphic Designer
+Greenkeeper
+Gymnastics Coach or Instructor
+Hairdresser
+Hardware Technician
+Health and Welfare Services Managers nec
+Health Diagnostic and Promotion Professionals nec
+Health Information Manager
+Health Promotion Officer
+Horse Riding Coach or Instructor
+Horse Trainer
+Hospital Pharmacist
+Hotel or Motel Manager
+Human Resource Manager
+Hydrogeologist
+ICT Account Manager
+ICT Business Analyst
+ICT Business Development Manager
+ICT Customer Support Officer
+ICT Managers nec
+ICT Project Manager
+ICT Quality Assurance Engineer
+ICT Sales Representative
+ICT Security Specialist
+ICT Support and Test Engineers nec
+ICT Support Engineer
+ICT Support Technicians nec
+ICT Systems Test Engineer
+ICT Trainer
+Illustrator
+Industrial Designer
+Industrial Engineer
+Industrial Pharmacist
+Information and Organisation Professionals nec
+Insurance Agent
+Insurance Broker
+Insurance Loss Adjuster
+Intensive Care Ambulance Paramedic
+Intensive Care Specialist
+Interior Designer
+Internal Auditor
+Interpreter
+Jeweller
+Jewellery Designer
+Joiner
+Journalists and Other Writers nec
+Judicial and Other Legal Professionals nec
+Laboratory Manager
+Land Economist
+Landscape Architect
+Landscape Gardener
+Librarian
+Life Science Technician
+Life Scientist (General)
+Life Scientists nec
+Lift Mechanic
+Locksmith
+Make Up Artist
+Management Accountant
+Management Consultant
+Manufacturer
+Marine Biologist
+Marketing Specialist
+Massage Therapist
+Materials Engineer
+Mathematician
+Meat Inspector
+Mechanical Engineer
+Mechanical Engineering Technician
+Medical Diagnostic Radiographer
+Medical Laboratory Scientist
+Medical Laboratory Technician
+Medical Oncologist
+Medical Practitioners nec
+Medical Radiation Therapist
+Medical Technicians nec
+Metal Fabricator
+Metal Fitters and Machinists nec
+Metal Machinist (First Class)
+Metallurgical or Materials Technician
+Metallurgist
+Meteorologist
+Microbiologist
+Middle School Teacher
+Midwife
+Mine Deputy
+Mining Engineer (excluding Petroleum)
+Motor Mechanic (General)
+Motorcycle Mechanic
+Multimedia Specialist
+Music Director
+Music Professionals nec
+Music Teacher (Private Tuition)
+Musician (Instrumental)
+Natural and Physical Science Professionals nec
+Naturopath
+Naval Architect
+Network Administrator
+Network Analyst
+Neurologist
+Neurosurgeon
+Newspaper or Periodical Editor
+Nuclear Medicine Technologist
+Nurse Educator
+Nurse Manager
+Nurse Practitioner
+Nurse Researcher
+Nursing Clinical Director
+Nutritionist
+Obstetrician and Gynaecologist
+Occupational Health and Safety Adviser
+Occupational Therapist
+Ophthalmologist
+Optometrist
+Organisation and Methods Analyst
+Organisational Psychologist
+Orthopaedic Surgeon
+Orthoptist
+Orthotist or Prosthetist
+Osteopath
+Other Spatial Scientist
+Other Sports Coach or Instructor
+Otorhinolaryngologist
+Paediatric Surgeon
+Paediatrician
+Painting Trades Worker
+Panelbeater
+Pastrycook
+Patents Examiner
+Pathologist
+Performing Arts Technicians nec
+Petroleum Engineer
+Pharmacy Technician
+Photographer
+Physicist
+Physiotherapist
+Plastic and Reconstructive Surgeon
+Plumber (General)
+Podiatrist
+Poultry Farmer
+Power Generation Plant Operator
+Precision Instrument Maker and Repairer
+Pressure Welder
+Primary Health Organisation Manager
+Primary Products Inspectors nec
+Primary School Teacher
+Print Finisher
+Print Journalist
+Printing Machinist
+Private Tutors and Teachers nec
+Production Manager (Forestry)
+Production Manager (Manufacturing)
+Production Manager (Mining)
+Production or Plant Engineer
+Program Director (Television or Radio)
+Program or Project Administrator
+Psychiatrist
+Psychologists nec
+Psychotherapist
+Public Relations Professional
+Quality Assurance Manager
+Quantity Surveyor
+Radiation Oncologist
+Radiocommunications Technician
+Records Manager
+Recreation Officer
+Recruitment Consultant
+Registered Nurse (Aged Care)
+Registered Nurse (Child and Family Health)
+Registered Nurse (Community Health)
+Registered Nurse (Critical Care and Emergency)
+Registered Nurse (Developmental Disability)
+Registered Nurse (Disability and Rehabilitation)
+Registered Nurse (Medical Practice)
+Registered Nurse (Medical)
+Registered Nurse (Mental Health)
+Registered Nurse (Paediatrics)
+Registered Nurse (Perioperative)
+Registered Nurse (Surgical)
+Registered Nurses nec
+Rehabilitation Counsellor
+Renal Medicine Specialist
+Research and Development Manager
+Resident Medical Officer
+Residential Care Officer
+Retail Buyer
+Retail Pharmacist
+Rheumatologist
+Roof Plumber
+Roof Tiler
+Sales and Marketing Manager
+School Principal
+Science Technicians nec
+Secondary School Teacher
+Sheetmetal Trades Worker
+Shipwright
+Signwriter
+Small Engine Mechanic
+Snowsport Instructor
+Social Professionals nec
+Social Worker
+Software and Applications Programmers nec
+Software Engineer
+Software Tester
+Solicitor
+Solid Plasterer
+Sonographer
+Sound Technician
+Special Education Teachers nec
+Special Needs Teacher
+Specialist Managers nec
+Specialist Physician (General Medicine)
+Specialist Physicians nec
+Speech Pathologist
+Sports Development Officer
+Sportspersons nec
+Stage Manager
+Statistician
+Stockbroking Dealer
+Stonemason
+Structural Engineer
+Student Counsellor
+Supply and Distribution Manager
+Surgeon (General)
+Surveyor
+Swimming Coach or Instructor
+Systems Administrator
+Systems Analyst
+Taxation Accountant
+Teacher of English to Speakers of Other Languages
+Teacher of the Hearing Impaired
+Teacher of the Sight Impaired
+Technical Cable Jointer
+Technical Director
+Technical Sales Representatives nec
+Technical Writer
+Telecommunications Engineer
+Telecommunications Field Engineer
+Telecommunications Linesworker
+Telecommunications Network Engineer
+Telecommunications Network Planner
+Telecommunications Technical Officer or Technologist
+Television Journalist
+Tennis Coach
+Thoracic Medicine Specialist
+Toolmaker
+Traditional Chinese Medicine Practitioner
+Transport Company Manager
+Transport Engineer
+University Lecturer
+Upholsterer
+Urban and Regional Planner
+Urologist
+Valuer
+Vascular Surgeon
+Vegetable Grower
+Vehicle Body Builder
+Vehicle Trimmer
+Veterinarian
+Veterinary Nurse
+Video Producer
+Wall and Floor Tiler
+Web Administrator
+Web Designer
+Web Developer
+Welder (First Class)
+Welfare Centre Manager
+Welfare Worker
+Wood Machinist
+Wood Machinists and Other Wood Trades Workers nec
+Youth Worker
+Zoologist
